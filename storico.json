@@ -1,0 +1,2459 @@
+[
+{
+"u": "arouca-estrela-amadora-2026-10-11",
+"d": "2026-10-11T21:30",
+"l": "PRT1",
+"h": "Arouca",
+"a": "Estrela Amadora",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.32
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.78
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.87
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "racing-santander-valencia-2026-10-11",
+"d": "2026-10-11T21:00",
+"l": "ESP1",
+"h": "Racing Santander",
+"a": "Valencia",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.17
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.58
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.38
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "cadiz-sporting-gijon-2026-10-11",
+"d": "2026-10-11T21:00",
+"l": "ESP2",
+"h": "Cádiz",
+"a": "Sporting Gijón",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.26
+},
+"med": {
+"m": "1",
+"q": 2.07
+},
+"est": {
+"m": "Under 1.5",
+"q": 2.77
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": true
+}
+},
+{
+"u": "troyes-marsiglia-2026-10-11",
+"d": "2026-10-11T20:45",
+"l": "FRA1",
+"h": "Troyes",
+"a": "Marsiglia",
+"sc": "0-2",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.28
+},
+"med": {
+"m": "2",
+"q": 2.02
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.47
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "cagliari-juventus-2026-10-11",
+"d": "2026-10-11T20:45",
+"l": "ITA1",
+"h": "Cagliari",
+"a": "Juventus",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.3
+},
+"med": {
+"m": "Under 2.5",
+"q": 1.8
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.3
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "modena-hellas-verona-2026-10-11",
+"d": "2026-10-11T19:30",
+"l": "ITA2",
+"h": "Modena",
+"a": "Hellas Verona",
+"sc": "3-2",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.27
+},
+"med": {
+"m": "1",
+"q": 2.02
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.05
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "benfica-vitoria-guimaraes-2026-10-11",
+"d": "2026-10-11T19:00",
+"l": "PRT1",
+"h": "Benfica",
+"a": "Vitória Guimarães",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.2
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.43
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.08
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "betis-osasuna-2026-10-11",
+"d": "2026-10-11T18:30",
+"l": "ESP1",
+"h": "Betis",
+"a": "Osasuna",
+"sc": "5-2",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.52
+},
+"med": {
+"m": "Goal",
+"q": 1.82
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.7
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "mallorca-las-palmas-2026-10-11",
+"d": "2026-10-11T18:30",
+"l": "ESP2",
+"h": "Mallorca",
+"a": "Las Palmas",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.23
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.74
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.8
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "sassuolo-milan-2026-10-11",
+"d": "2026-10-11T18:00",
+"l": "ITA1",
+"h": "Sassuolo",
+"a": "Milan",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.22
+},
+"med": {
+"m": "2",
+"q": 1.83
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.67
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "friburgo-schalke-04-2026-10-11",
+"d": "2026-10-11T17:30",
+"l": "DEU1",
+"h": "Friburgo",
+"a": "Schalke 04",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.18
+},
+"med": {
+"m": "1",
+"q": 1.64
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.4
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "liverpool-man-city-2026-10-11",
+"d": "2026-10-11T17:30",
+"l": "GBR1",
+"h": "Liverpool",
+"a": "Man City",
+"sc": "0-3",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.17
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.56
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.33
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "rennes-auxerre-2026-10-11",
+"d": "2026-10-11T17:15",
+"l": "FRA1",
+"h": "Rennes",
+"a": "Auxerre",
+"sc": "4-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.14
+},
+"med": {
+"m": "Goal",
+"q": 1.65
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.16
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "padova-carrarese-2026-10-11",
+"d": "2026-10-11T17:15",
+"l": "ITA2",
+"h": "Padova",
+"a": "Carrarese",
+"sc": "0-2",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.25
+},
+"med": {
+"m": "1",
+"q": 1.93
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.95
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "excelsior-groningen-2026-10-11",
+"d": "2026-10-11T16:45",
+"l": "NLD1",
+"h": "Excelsior",
+"a": "Groningen",
+"sc": "1-5",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.16
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.54
+},
+"est": {
+"m": "1",
+"q": 2.52
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "rio-ave-nacional-2026-10-11",
+"d": "2026-10-11T16:30",
+"l": "PRT1",
+"h": "Rio Ave",
+"a": "Nacional",
+"sc": "3-2",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.34
+},
+"med": {
+"m": "No Goal",
+"q": 1.87
+},
+"est": {
+"m": "Under 1.5",
+"q": 2.97
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "real-sociedad-deportivo-la-coruna-2026-10-11",
+"d": "2026-10-11T16:15",
+"l": "ESP1",
+"h": "Real Sociedad",
+"a": "Deportivo La Coruña",
+"sc": "3-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.22
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.7
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.7
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "almeria-leganes-2026-10-11",
+"d": "2026-10-11T16:15",
+"l": "ESP2",
+"h": "Almería",
+"a": "Leganés",
+"sc": "3-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.2
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.66
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.6
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "colonia-gladbach-2026-10-11",
+"d": "2026-10-11T15:30",
+"l": "DEU1",
+"h": "Colonia",
+"a": "Gladbach",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.14
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.48
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.15
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "nizza-strasburgo-2026-10-11",
+"d": "2026-10-11T15:00",
+"l": "FRA1",
+"h": "Nizza",
+"a": "Strasburgo",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.38
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.63
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.52
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "crystal-palace-nottingham-forest-2026-10-11",
+"d": "2026-10-11T15:00",
+"l": "GBR1",
+"h": "Crystal Palace",
+"a": "Nottingham Forest",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.43
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.85
+},
+"est": {
+"m": "X",
+"q": 3.3
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": false
+}
+},
+{
+"u": "hull-city-everton-2026-10-11",
+"d": "2026-10-11T15:00",
+"l": "GBR1",
+"h": "Hull City",
+"a": "Everton",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.3
+},
+"med": {
+"m": "No Goal",
+"q": 1.95
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.25
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "lazio-monza-2026-10-11",
+"d": "2026-10-11T15:00",
+"l": "ITA1",
+"h": "Lazio",
+"a": "Monza",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.26
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.83
+},
+"est": {
+"m": "Over 3.5",
+"q": 3.0
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "lecce-bologna-2026-10-11",
+"d": "2026-10-11T15:00",
+"l": "ITA1",
+"h": "Lecce",
+"a": "Bologna",
+"sc": "1-2",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.26
+},
+"med": {
+"m": "2",
+"q": 1.95
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.05
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "catanzaro-mantova-2026-10-11",
+"d": "2026-10-11T15:00",
+"l": "ITA2",
+"h": "Catanzaro",
+"a": "Mantova",
+"sc": "1-3",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.37
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.71
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.67
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": true
+}
+},
+{
+"u": "pec-zwolle-cambuur-2026-10-11",
+"d": "2026-10-11T14:30",
+"l": "NLD1",
+"h": "PEC Zwolle",
+"a": "Cambuur",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.14
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.48
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.18
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "telstar-ado-den-haag-2026-10-11",
+"d": "2026-10-11T14:30",
+"l": "NLD1",
+"h": "Telstar",
+"a": "ADO Den Haag",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.15
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.51
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.23
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "elche-celta-vigo-2026-10-11",
+"d": "2026-10-11T14:00",
+"l": "ESP1",
+"h": "Elche",
+"a": "Celta Vigo",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.4
+},
+"med": {
+"m": "No Goal",
+"q": 1.98
+},
+"est": {
+"m": "X",
+"q": 3.25
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "andorra-castellon-2026-10-11",
+"d": "2026-10-11T14:00",
+"l": "ESP2",
+"h": "Andorra",
+"a": "Castellón",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.17
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.58
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.37
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "bochum-arminia-bielefeld-2026-10-11",
+"d": "2026-10-11T13:30",
+"l": "DEU2",
+"h": "Bochum",
+"a": "Arminia Bielefeld",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.19
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.63
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.52
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "hertha-greuther-furth-2026-10-11",
+"d": "2026-10-11T13:30",
+"l": "DEU2",
+"h": "Hertha",
+"a": "Greuther Fürth",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.19
+},
+"med": {
+"m": "1",
+"q": 1.58
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.9
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "st-pauli-karlsruhe-2026-10-11",
+"d": "2026-10-11T13:30",
+"l": "DEU2",
+"h": "St. Pauli",
+"a": "Karlsruhe",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.43
+},
+"med": {
+"m": "1",
+"q": 1.72
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.05
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": false
+}
+},
+{
+"u": "southampton-portsmouth-2026-10-11",
+"d": "2026-10-11T13:00",
+"l": "GBR2",
+"h": "Southampton",
+"a": "Portsmouth",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.19
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.61
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.48
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "como-roma-2026-10-11",
+"d": "2026-10-11T12:30",
+"l": "ITA1",
+"h": "Como",
+"a": "Roma",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.18
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.6
+},
+"est": {
+"m": "1",
+"q": 2.57
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "utrecht-willem-ii-2026-10-11",
+"d": "2026-10-11T12:15",
+"l": "NLD1",
+"h": "Utrecht",
+"a": "Willem II",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.15
+},
+"med": {
+"m": "1",
+"q": 1.5
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.06
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "academico-viseu-estoril-2026-10-10",
+"d": "2026-10-10T21:30",
+"l": "PRT1",
+"h": "Académico Viseu",
+"a": "Estoril",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.37
+},
+"med": {
+"m": "Under 2.5",
+"q": 1.81
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.3
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "casa-pia-santa-clara-2026-10-10",
+"d": "2026-10-10T21:30",
+"l": "PRT1",
+"h": "Casa Pia",
+"a": "Santa Clara",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.28
+},
+"med": {
+"m": "2",
+"q": 2.1
+},
+"est": {
+"m": "Under 1.5",
+"q": 2.82
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "real-madrid-villarreal-2026-10-10",
+"d": "2026-10-10T21:00",
+"l": "ESP1",
+"h": "Real Madrid",
+"a": "Villarreal",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.1
+},
+"med": {
+"m": "1",
+"q": 1.35
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.67
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "celta-fortuna-real-sociedad-b-2026-10-10",
+"d": "2026-10-10T21:00",
+"l": "ESP2",
+"h": "Celta Fortuna",
+"a": "Real Sociedad B",
+"sc": "4-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.45
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.77
+},
+"est": {
+"m": "X",
+"q": 3.3
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "ajax-nec-nijmegen-2026-10-10",
+"d": "2026-10-10T21:00",
+"l": "NLD1",
+"h": "Ajax",
+"a": "NEC Nijmegen",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.1
+},
+"med": {
+"m": "1",
+"q": 1.32
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.58
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "brest-angers-2026-10-10",
+"d": "2026-10-10T20:45",
+"l": "FRA1",
+"h": "Brest",
+"a": "Angers",
+"sc": "5-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.25
+},
+"med": {
+"m": "1",
+"q": 1.9
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.47
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "lorient-paris-fc-2026-10-10",
+"d": "2026-10-10T20:45",
+"l": "FRA1",
+"h": "Lorient",
+"a": "Paris FC",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.31
+},
+"med": {
+"m": "No Goal",
+"q": 1.98
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.35
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "monaco-tolosa-2026-10-10",
+"d": "2026-10-10T20:45",
+"l": "FRA1",
+"h": "Monaco",
+"a": "Tolosa",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.17
+},
+"med": {
+"m": "1",
+"q": 1.63
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.32
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "psg-le-mans-2026-10-10",
+"d": "2026-10-10T20:45",
+"l": "FRA1",
+"h": "PSG",
+"a": "Le Mans",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.24
+},
+"med": {
+"m": "Over 3.5",
+"q": 1.62
+},
+"est": {
+"m": "Goal",
+"q": 1.9
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "napoli-frosinone-2026-10-10",
+"d": "2026-10-10T20:45",
+"l": "ITA1",
+"h": "Napoli",
+"a": "Frosinone",
+"sc": "3-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.14
+},
+"med": {
+"m": "1",
+"q": 1.5
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.05
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "norimberga-wolfsburg-2026-10-10",
+"d": "2026-10-10T20:30",
+"l": "DEU2",
+"h": "Norimberga",
+"a": "Wolfsburg",
+"sc": "4-4",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.35
+},
+"med": {
+"m": "Over 3.5",
+"q": 1.85
+},
+"est": {
+"m": "1",
+"q": 2.37
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "saint-etienne-rodez-2026-10-10",
+"d": "2026-10-10T20:00",
+"l": "FRA2",
+"h": "Saint-Étienne",
+"a": "Rodez",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.38
+},
+"med": {
+"m": "Goal",
+"q": 1.64
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.04
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "fortuna-sittard-twente-2026-10-10",
+"d": "2026-10-10T20:00",
+"l": "NLD1",
+"h": "Fortuna Sittard",
+"a": "Twente",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.13
+},
+"med": {
+"m": "Goal",
+"q": 1.51
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.86
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "arezzo-cremonese-2026-10-10",
+"d": "2026-10-10T19:30",
+"l": "ITA2",
+"h": "Arezzo",
+"a": "Cremonese",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.33
+},
+"med": {
+"m": "No Goal",
+"q": 1.8
+},
+"est": {
+"m": "Under 1.5",
+"q": 2.82
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "maritimo-porto-2026-10-10",
+"d": "2026-10-10T19:00",
+"l": "PRT1",
+"h": "Marítimo",
+"a": "Porto",
+"sc": "1-2",
+"p": {
+"aff": {
+"m": "2",
+"q": 1.3
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.73
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.8
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "feyenoord-az-alkmaar-2026-10-10",
+"d": "2026-10-10T18:45",
+"l": "NLD1",
+"h": "Feyenoord",
+"a": "AZ Alkmaar",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.4
+},
+"med": {
+"m": "1",
+"q": 1.7
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.96
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": false
+}
+},
+{
+"u": "lipsia-eintracht-francoforte-2026-10-10",
+"d": "2026-10-10T18:30",
+"l": "DEU1",
+"h": "Lipsia",
+"a": "Eintracht Francoforte",
+"sc": "6-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.07
+},
+"med": {
+"m": "Goal",
+"q": 1.35
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.68
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "barcellona-getafe-2026-10-10",
+"d": "2026-10-10T18:30",
+"l": "ESP1",
+"h": "Barcellona",
+"a": "Getafe",
+"sc": "3-0",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.22
+},
+"med": {
+"m": "Over 3.5",
+"q": 1.58
+},
+"est": {
+"m": "Goal",
+"q": 2.17
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "eldense-cordoba-2026-10-10",
+"d": "2026-10-10T18:30",
+"l": "ESP2",
+"h": "Eldense",
+"a": "Córdoba",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.37
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.62
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.5
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "man-united-tottenham-2026-10-10",
+"d": "2026-10-10T18:30",
+"l": "GBR1",
+"h": "Man United",
+"a": "Tottenham",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.21
+},
+"med": {
+"m": "1",
+"q": 1.72
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.18
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "inter-parma-2026-10-10",
+"d": "2026-10-10T18:00",
+"l": "ITA1",
+"h": "Inter",
+"a": "Parma",
+"sc": "3-0",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.34
+},
+"med": {
+"m": "Over 3.5",
+"q": 1.86
+},
+"est": {
+"m": "Goal",
+"q": 2.03
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "lille-le-havre-2026-10-10",
+"d": "2026-10-10T17:15",
+"l": "FRA1",
+"h": "Lille",
+"a": "Le Havre",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.44
+},
+"med": {
+"m": "Goal",
+"q": 1.78
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.47
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "vicenza-pisa-2026-10-10",
+"d": "2026-10-10T17:15",
+"l": "ITA2",
+"h": "Vicenza",
+"a": "Pisa",
+"sc": "0-3",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.4
+},
+"med": {
+"m": "Under 2.5",
+"q": 1.83
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.35
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "go-ahead-eagles-sparta-rotterdam-2026-10-10",
+"d": "2026-10-10T16:30",
+"l": "NLD1",
+"h": "Go Ahead Eagles",
+"a": "Sparta Rotterdam",
+"sc": "3-3",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.18
+},
+"med": {
+"m": "1",
+"q": 1.6
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.06
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "alaves-atletico-madrid-2026-10-10",
+"d": "2026-10-10T16:15",
+"l": "ESP1",
+"h": "Alavés",
+"a": "Atlético Madrid",
+"sc": "1-2",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.3
+},
+"med": {
+"m": "2",
+"q": 1.8
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.25
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "ceuta-sabadell-2026-10-10",
+"d": "2026-10-10T16:15",
+"l": "ESP2",
+"h": "Ceuta",
+"a": "Sabadell",
+"sc": "1-2",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.32
+},
+"med": {
+"m": "No Goal",
+"q": 1.72
+},
+"est": {
+"m": "Under 1.5",
+"q": 2.6
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "aston-villa-brentford-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR1",
+"h": "Aston Villa",
+"a": "Brentford",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.45
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.65
+},
+"est": {
+"m": "X",
+"q": 3.5
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "chelsea-bournemouth-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR1",
+"h": "Chelsea",
+"a": "Bournemouth",
+"sc": "5-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.2
+},
+"med": {
+"m": "1",
+"q": 1.71
+},
+"est": {
+"m": "2",
+"q": 4.3
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "ipswich-fulham-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR1",
+"h": "Ipswich",
+"a": "Fulham",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.43
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.7
+},
+"est": {
+"m": "X",
+"q": 3.45
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": false
+}
+},
+{
+"u": "sunderland-brighton-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR1",
+"h": "Sunderland",
+"a": "Brighton",
+"sc": "0-2",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.37
+},
+"med": {
+"m": "2",
+"q": 2.33
+},
+"est": {
+"m": "X",
+"q": 3.45
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "blackburn-cardiff-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR2",
+"h": "Blackburn",
+"a": "Cardiff",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.45
+},
+"med": {
+"m": "2",
+"q": 2.4
+},
+"est": {
+"m": "X",
+"q": 3.55
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "bolton-stoke-city-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR2",
+"h": "Bolton",
+"a": "Stoke City",
+"sc": "1-2",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.46
+},
+"med": {
+"m": "Under 2.5",
+"q": 1.88
+},
+"est": {
+"m": "X",
+"q": 3.35
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "derby-county-wrexham-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR2",
+"h": "Derby County",
+"a": "Wrexham",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.4
+},
+"med": {
+"m": "2",
+"q": 2.38
+},
+"est": {
+"m": "X",
+"q": 3.25
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "middlesbrough-wolverhampton-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR2",
+"h": "Middlesbrough",
+"a": "Wolverhampton",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.4
+},
+"med": {
+"m": "1",
+"q": 2.23
+},
+"est": {
+"m": "X",
+"q": 3.65
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "preston-millwall-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR2",
+"h": "Preston",
+"a": "Millwall",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.41
+},
+"med": {
+"m": "2",
+"q": 2.38
+},
+"est": {
+"m": "X",
+"q": 3.4
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "sheffield-united-lincoln-city-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR2",
+"h": "Sheffield United",
+"a": "Lincoln City",
+"sc": "3-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.32
+},
+"med": {
+"m": "1",
+"q": 2.16
+},
+"est": {
+"m": "2",
+"q": 3.25
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "watford-burnley-2026-10-10",
+"d": "2026-10-10T16:00",
+"l": "GBR2",
+"h": "Watford",
+"a": "Burnley",
+"sc": "0-4",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.42
+},
+"med": {
+"m": "2",
+"q": 2.38
+},
+"est": {
+"m": "X",
+"q": 3.45
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "augsburg-bayern-monaco-2026-10-10",
+"d": "2026-10-10T15:30",
+"l": "DEU1",
+"h": "Augsburg",
+"a": "Bayern Monaco",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.14
+},
+"med": {
+"m": "Goal",
+"q": 1.41
+},
+"est": {
+"m": "Under 3.5",
+"q": 2.77
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "hoffenheim-amburgo-2026-10-10",
+"d": "2026-10-10T15:30",
+"l": "DEU1",
+"h": "Hoffenheim",
+"a": "Amburgo",
+"sc": "2-3",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.41
+},
+"med": {
+"m": "No Goal",
+"q": 2.35
+},
+"est": {
+"m": "X",
+"q": 5.2
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "mainz-leverkusen-2026-10-10",
+"d": "2026-10-10T15:30",
+"l": "DEU1",
+"h": "Mainz",
+"a": "Leverkusen",
+"sc": "3-4",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.38
+},
+"med": {
+"m": "2",
+"q": 2.23
+},
+"est": {
+"m": "X",
+"q": 3.75
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "paderborn-stoccarda-2026-10-10",
+"d": "2026-10-10T15:30",
+"l": "DEU1",
+"h": "Paderborn",
+"a": "Stoccarda",
+"sc": "0-2",
+"p": {
+"aff": {
+"m": "2",
+"q": 1.56
+},
+"med": {
+"m": "Under 3.5",
+"q": 1.88
+},
+"est": {
+"m": "1",
+"q": 4.85
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "union-berlino-elversberg-2026-10-10",
+"d": "2026-10-10T15:30",
+"l": "DEU1",
+"h": "Union Berlino",
+"a": "Elversberg",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.43
+},
+"med": {
+"m": "1",
+"q": 2.38
+},
+"est": {
+"m": "X",
+"q": 3.7
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "genoa-fiorentina-2026-10-10",
+"d": "2026-10-10T15:00",
+"l": "ITA1",
+"h": "Genoa",
+"a": "Fiorentina",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.34
+},
+"med": {
+"m": "2",
+"q": 2.32
+},
+"est": {
+"m": "X",
+"q": 3.3
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "benevento-cesena-2026-10-10",
+"d": "2026-10-10T15:00",
+"l": "ITA2",
+"h": "Benevento",
+"a": "Cesena",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.26
+},
+"med": {
+"m": "1",
+"q": 1.93
+},
+"est": {
+"m": "2",
+"q": 3.75
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "empoli-palermo-2026-10-10",
+"d": "2026-10-10T15:00",
+"l": "ITA2",
+"h": "Empoli",
+"a": "Palermo",
+"sc": "2-4",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.3
+},
+"med": {
+"m": "2",
+"q": 2.0
+},
+"est": {
+"m": "1",
+"q": 3.5
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "sudtirol-ascoli-2026-10-10",
+"d": "2026-10-10T15:00",
+"l": "ITA2",
+"h": "Südtirol",
+"a": "Ascoli",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.4
+},
+"med": {
+"m": "1",
+"q": 2.43
+},
+"est": {
+"m": "X",
+"q": 3.25
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "virtus-entella-juve-stabia-2026-10-10",
+"d": "2026-10-10T15:00",
+"l": "ITA2",
+"h": "Virtus Entella",
+"a": "Juve Stabia",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.27
+},
+"med": {
+"m": "1",
+"q": 2.07
+},
+"est": {
+"m": "2",
+"q": 3.65
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "clermont-red-star-2026-10-10",
+"d": "2026-10-10T14:00",
+"l": "FRA2",
+"h": "Clermont",
+"a": "Red Star",
+"sc": "2-3",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.28
+},
+"med": {
+"m": "2",
+"q": 2.07
+},
+"est": {
+"m": "1",
+"q": 3.55
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "nantes-reims-2026-10-10",
+"d": "2026-10-10T14:00",
+"l": "FRA2",
+"h": "Nantes",
+"a": "Reims",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.32
+},
+"med": {
+"m": "1",
+"q": 2.13
+},
+"est": {
+"m": "2",
+"q": 3.3
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "arsenal-leeds-2026-10-10",
+"d": "2026-10-10T13:30",
+"l": "GBR1",
+"h": "Arsenal",
+"a": "Leeds",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.42
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.77
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.9
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "charlton-bristol-city-2026-10-10",
+"d": "2026-10-10T13:30",
+"l": "GBR2",
+"h": "Charlton",
+"a": "Bristol City",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.35
+},
+"med": {
+"m": "2",
+"q": 2.25
+},
+"est": {
+"m": "X",
+"q": 3.25
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "swansea-norwich-2026-10-10",
+"d": "2026-10-10T13:30",
+"l": "GBR2",
+"h": "Swansea",
+"a": "Norwich",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.4
+},
+"med": {
+"m": "1",
+"q": 2.32
+},
+"est": {
+"m": "X",
+"q": 3.45
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "west-brom-birmingham-2026-10-10",
+"d": "2026-10-10T13:30",
+"l": "GBR2",
+"h": "West Brom",
+"a": "Birmingham",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.42
+},
+"med": {
+"m": "No Goal",
+"q": 1.91
+},
+"est": {
+"m": "X",
+"q": 3.25
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": false
+}
+},
+{
+"u": "darmstadt-energie-cottbus-2026-10-10",
+"d": "2026-10-10T13:00",
+"l": "DEU2",
+"h": "Darmstadt",
+"a": "Energie Cottbus",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.41
+},
+"med": {
+"m": "1",
+"q": 2.22
+},
+"est": {
+"m": "X",
+"q": 3.8
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "magdeburgo-hannover-96-2026-10-10",
+"d": "2026-10-10T13:00",
+"l": "DEU2",
+"h": "Magdeburgo",
+"a": "Hannover 96",
+"sc": "3-0",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.51
+},
+"med": {
+"m": "2",
+"q": 2.45
+},
+"est": {
+"m": "X",
+"q": 3.85
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "osnabruck-dynamo-dresda-2026-10-10",
+"d": "2026-10-10T13:00",
+"l": "DEU2",
+"h": "Osnabrück",
+"a": "Dynamo Dresda",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.47
+},
+"med": {
+"m": "2",
+"q": 2.4
+},
+"est": {
+"m": "X",
+"q": 3.7
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+}
+]
