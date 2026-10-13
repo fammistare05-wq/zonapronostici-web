@@ -1,5 +1,167 @@
 [
 {
+"u": "famalicao-alverca-2026-10-12",
+"d": "2026-10-12T21:15",
+"l": "PRT1",
+"h": "Famalicão",
+"a": "Alverca",
+"sc": "1-4",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.27
+},
+"med": {
+"m": "1",
+"q": 1.88
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.1
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "levante-siviglia-2026-10-12",
+"d": "2026-10-12T21:00",
+"l": "ESP1",
+"h": "Levante",
+"a": "Siviglia",
+"sc": "3-3",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.42
+},
+"med": {
+"m": "No Goal",
+"q": 1.95
+},
+"est": {
+"m": "X",
+"q": 3.25
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "tenerife-girona-2026-10-12",
+"d": "2026-10-12T21:00",
+"l": "ESP2",
+"h": "Tenerife",
+"a": "Girona",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.4
+},
+"med": {
+"m": "No Goal",
+"q": 1.81
+},
+"est": {
+"m": "X",
+"q": 3.1
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "coventry-newcastle-2026-10-12",
+"d": "2026-10-12T21:00",
+"l": "GBR1",
+"h": "Coventry",
+"a": "Newcastle",
+"sc": "4-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.34
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.63
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.5
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": true
+}
+},
+{
+"u": "dijon-metz-2026-10-12",
+"d": "2026-10-12T20:45",
+"l": "FRA2",
+"h": "Dijon",
+"a": "Metz",
+"sc": "4-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.2
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.67
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.6
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "torino-udinese-2026-10-12",
+"d": "2026-10-12T20:45",
+"l": "ITA1",
+"h": "Torino",
+"a": "Udinese",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.33
+},
+"med": {
+"m": "No Goal",
+"q": 1.94
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.05
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
 "u": "real-oviedo-eibar-2026-10-12",
 "d": "2026-10-12T18:30",
 "l": "ESP2",
