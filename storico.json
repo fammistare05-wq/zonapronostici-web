@@ -1,5 +1,59 @@
 [
 {
+"u": "lens-sporting-cp-2026-10-13",
+"d": "2026-10-13T18:45",
+"l": "UCL",
+"h": "Lens",
+"a": "Sporting CP",
+"sc": "0-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.16
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.53
+},
+"est": {
+"m": "1",
+"q": 2.5
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "sabah-slavia-praga-2026-10-13",
+"d": "2026-10-13T18:45",
+"l": "UCL",
+"h": "Sabah",
+"a": "Slavia Praga",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.31
+},
+"med": {
+"m": "2",
+"q": 2.06
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.5
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
 "u": "famalicao-alverca-2026-10-12",
 "d": "2026-10-12T21:15",
 "l": "PRT1",
