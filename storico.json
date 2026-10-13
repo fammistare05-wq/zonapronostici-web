@@ -1,5 +1,410 @@
 [
 {
+"u": "birmingham-preston-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "GBR2",
+"h": "Birmingham",
+"a": "Preston",
+"sc": "4-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.21
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.67
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.62
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "stoke-city-middlesbrough-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "GBR2",
+"h": "Stoke City",
+"a": "Middlesbrough",
+"sc": "2-3",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.28
+},
+"med": {
+"m": "2",
+"q": 1.93
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.5
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "arsenal-lille-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "UCL",
+"h": "Arsenal",
+"a": "Lille",
+"sc": "3-0",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.25
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.55
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.37
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "atletico-madrid-man-united-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "UCL",
+"h": "Atlético Madrid",
+"a": "Man United",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.13
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.47
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.13
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "galatasaray-barcellona-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "UCL",
+"h": "Galatasaray",
+"a": "Barcellona",
+"sc": "1-4",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.08
+},
+"med": {
+"m": "2",
+"q": 1.3
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.52
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "inter-club-brugge-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "UCL",
+"h": "Inter",
+"a": "Club Brugge",
+"sc": "3-4",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.13
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.43
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.07
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "lipsia-psv-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "UCL",
+"h": "Lipsia",
+"a": "PSV",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.09
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.34
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.85
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "viking-bayern-monaco-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "UCL",
+"h": "Viking",
+"a": "Bayern Monaco",
+"sc": "3-3",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.14
+},
+"med": {
+"m": "Over 3.5",
+"q": 1.4
+},
+"est": {
+"m": "Goal",
+"q": 1.68
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "villarreal-napoli-2026-10-13",
+"d": "2026-10-13T21:00",
+"l": "UCL",
+"h": "Villarreal",
+"a": "Napoli",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.17
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.57
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.38
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "bristol-city-blackburn-2026-10-13",
+"d": "2026-10-13T20:45",
+"l": "GBR2",
+"h": "Bristol City",
+"a": "Blackburn",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.28
+},
+"med": {
+"m": "1",
+"q": 1.96
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.97
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "burnley-charlton-2026-10-13",
+"d": "2026-10-13T20:45",
+"l": "GBR2",
+"h": "Burnley",
+"a": "Charlton",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.24
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.77
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.87
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "cardiff-watford-2026-10-13",
+"d": "2026-10-13T20:45",
+"l": "GBR2",
+"h": "Cardiff",
+"a": "Watford",
+"sc": "5-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.2
+},
+"med": {
+"m": "1",
+"q": 1.66
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.16
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "millwall-swansea-2026-10-13",
+"d": "2026-10-13T20:45",
+"l": "GBR2",
+"h": "Millwall",
+"a": "Swansea",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.46
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.81
+},
+"est": {
+"m": "X",
+"q": 3.35
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "wolverhampton-bolton-2026-10-13",
+"d": "2026-10-13T20:45",
+"l": "GBR2",
+"h": "Wolverhampton",
+"a": "Bolton",
+"sc": "1-3",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.41
+},
+"med": {
+"m": "Goal",
+"q": 1.77
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.35
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": true
+}
+},
+{
+"u": "wrexham-west-brom-2026-10-13",
+"d": "2026-10-13T20:45",
+"l": "GBR2",
+"h": "Wrexham",
+"a": "West Brom",
+"sc": "1-2",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.36
+},
+"med": {
+"m": "No Goal",
+"q": 1.92
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.1
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
 "u": "lens-sporting-cp-2026-10-13",
 "d": "2026-10-13T18:45",
 "l": "UCL",
