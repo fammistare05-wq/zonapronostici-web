@@ -1,5 +1,32 @@
 [
 {
+"u": "deportivo-la-coruna-levante-2026-10-16",
+"d": "2026-10-16T21:00",
+"l": "ESP1",
+"h": "Deportivo La Coruña",
+"a": "Levante",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.31
+},
+"med": {
+"m": "No Goal",
+"q": 1.98
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.35
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
 "u": "le-mans-tolosa-2026-10-16",
 "d": "2026-10-16T20:45",
 "l": "FRA1",
