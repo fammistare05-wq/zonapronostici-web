@@ -1,5 +1,113 @@
 [
 {
+"u": "le-mans-tolosa-2026-10-16",
+"d": "2026-10-16T20:45",
+"l": "FRA1",
+"h": "Le Mans",
+"a": "Tolosa",
+"sc": "0-3",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.38
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.71
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.7
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "frosinone-sassuolo-2026-10-16",
+"d": "2026-10-16T20:45",
+"l": "ITA1",
+"h": "Frosinone",
+"a": "Sassuolo",
+"sc": "4-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.15
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.53
+},
+"est": {
+"m": "1",
+"q": 2.42
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "eintracht-francoforte-colonia-2026-10-16",
+"d": "2026-10-16T20:30",
+"l": "DEU1",
+"h": "Eintracht Francoforte",
+"a": "Colonia",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.36
+},
+"med": {
+"m": "Over 3.5",
+"q": 1.88
+},
+"est": {
+"m": "1",
+"q": 1.93
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": true
+}
+},
+{
+"u": "stade-lavallois-mfc-clermont-2026-10-16",
+"d": "2026-10-16T20:00",
+"l": "FRA2",
+"h": "Stade Lavallois Mfc",
+"a": "Clermont",
+"sc": "3-3",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.3
+},
+"med": {
+"m": "1",
+"q": 2.17
+},
+"est": {
+"m": "Under 1.5",
+"q": 2.87
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
 "u": "atalanta-pafos-2026-10-15",
 "d": "2026-10-15T21:00",
 "l": "UECL",
