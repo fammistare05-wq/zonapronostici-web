@@ -1,5 +1,59 @@
 [
 {
+"u": "kaiserslautern-bochum-2026-10-17",
+"d": "2026-10-17T13:00",
+"l": "DEU2",
+"h": "Kaiserslautern",
+"a": "Bochum",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.19
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.63
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.5
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "wolfsburg-heidenheim-2026-10-17",
+"d": "2026-10-17T13:00",
+"l": "DEU2",
+"h": "Wolfsburg",
+"a": "Heidenheim",
+"sc": "3-1",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.42
+},
+"med": {
+"m": "1",
+"q": 1.74
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.02
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
 "u": "deportivo-la-coruna-levante-2026-10-16",
 "d": "2026-10-16T21:00",
 "l": "ESP1",
