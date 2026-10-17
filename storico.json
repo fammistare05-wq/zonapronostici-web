@@ -1,5 +1,248 @@
 [
 {
+"u": "villarreal-elche-2026-10-17",
+"d": "2026-10-17T16:15",
+"l": "ESP1",
+"h": "Villarreal",
+"a": "Elche",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.13
+},
+"med": {
+"m": "Goal",
+"q": 1.6
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.1
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "amburgo-stoccarda-2026-10-17",
+"d": "2026-10-17T15:30",
+"l": "DEU1",
+"h": "Amburgo",
+"a": "Stoccarda",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.1
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.37
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.9
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "elversberg-augsburg-2026-10-17",
+"d": "2026-10-17T15:30",
+"l": "DEU1",
+"h": "Elversberg",
+"a": "Augsburg",
+"sc": "4-3",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.44
+},
+"med": {
+"m": "Over 3.5",
+"q": 2.06
+},
+"est": {
+"m": "1",
+"q": 2.47
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "schalke-04-mainz-2026-10-17",
+"d": "2026-10-17T15:30",
+"l": "DEU1",
+"h": "Schalke 04",
+"a": "Mainz",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.17
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.56
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.35
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "union-berlino-borussia-dortmund-2026-10-17",
+"d": "2026-10-17T15:30",
+"l": "DEU1",
+"h": "Union Berlino",
+"a": "Borussia Dortmund",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.18
+},
+"med": {
+"m": "2",
+"q": 1.65
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.18
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "werder-brema-paderborn-2026-10-17",
+"d": "2026-10-17T15:30",
+"l": "DEU1",
+"h": "Werder Brema",
+"a": "Paderborn",
+"sc": "2-2",
+"p": {
+"aff": {
+"m": "Over 2.5",
+"q": 1.52
+},
+"med": {
+"m": "1",
+"q": 1.8
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.26
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "venezia-napoli-2026-10-17",
+"d": "2026-10-17T15:00",
+"l": "ITA1",
+"h": "Venezia",
+"a": "Napoli",
+"sc": "1-0",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.21
+},
+"med": {
+"m": "2",
+"q": 1.71
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.62
+}
+},
+"ok": {
+"aff": false,
+"med": false,
+"est": false
+}
+},
+{
+"u": "espanyol-atletico-madrid-2026-10-17",
+"d": "2026-10-17T14:00",
+"l": "ESP1",
+"h": "Espanyol",
+"a": "Atlético Madrid",
+"sc": "0-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.24
+},
+"med": {
+"m": "2",
+"q": 1.81
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.85
+}
+},
+"ok": {
+"aff": false,
+"med": true,
+"est": false
+}
+},
+{
+"u": "nantes-usl-dunkerque-2026-10-17",
+"d": "2026-10-17T14:00",
+"l": "FRA2",
+"h": "Nantes",
+"a": "Usl Dunkerque",
+"sc": "2-3",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.24
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.75
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.82
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
 "u": "kaiserslautern-bochum-2026-10-17",
 "d": "2026-10-17T13:00",
 "l": "DEU2",
