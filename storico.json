@@ -1,5 +1,113 @@
 [
 {
+"u": "valencia-athletic-club-2026-10-17",
+"d": "2026-10-17T21:00",
+"l": "ESP1",
+"h": "Valencia",
+"a": "Athletic Club",
+"sc": "0-0",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.28
+},
+"med": {
+"m": "2",
+"q": 2.06
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.1
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "lille-brest-2026-10-17",
+"d": "2026-10-17T20:45",
+"l": "FRA1",
+"h": "Lille",
+"a": "Brest",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.21
+},
+"med": {
+"m": "1",
+"q": 1.71
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.65
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
+"u": "troyes-lens-2026-10-17",
+"d": "2026-10-17T20:45",
+"l": "FRA1",
+"h": "Troyes",
+"a": "Lens",
+"sc": "1-3",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.23
+},
+"med": {
+"m": "2",
+"q": 1.82
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.32
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "roma-genoa-2026-10-17",
+"d": "2026-10-17T20:45",
+"l": "ITA1",
+"h": "Roma",
+"a": "Genoa",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "1",
+"q": 1.34
+},
+"med": {
+"m": "Goal",
+"q": 1.96
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.52
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
 "u": "bayern-monaco-lipsia-2026-10-17",
 "d": "2026-10-17T18:30",
 "l": "DEU1",
