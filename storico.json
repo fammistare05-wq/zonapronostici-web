@@ -1,5 +1,86 @@
 [
 {
+"u": "real-madrid-siviglia-2026-10-18",
+"d": "2026-10-18T21:00",
+"l": "ESP1",
+"h": "Real Madrid",
+"a": "Siviglia",
+"sc": "4-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.1
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.34
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.87
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": true
+}
+},
+{
+"u": "lione-nizza-2026-10-18",
+"d": "2026-10-18T20:45",
+"l": "FRA1",
+"h": "Lione",
+"a": "Nizza",
+"sc": "2-1",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.19
+},
+"med": {
+"m": "1",
+"q": 1.67
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.52
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "juventus-lazio-2026-10-18",
+"d": "2026-10-18T20:45",
+"l": "ITA1",
+"h": "Juventus",
+"a": "Lazio",
+"sc": "0-3",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.32
+},
+"med": {
+"m": "Under 2.5",
+"q": 1.83
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.35
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
 "u": "sampdoria-arezzo-2026-10-18",
 "d": "2026-10-18T19:30",
 "l": "ITA2",
