@@ -1,5 +1,59 @@
 [
 {
+"u": "osasuna-racing-santander-2026-10-18",
+"d": "2026-10-18T14:00",
+"l": "ESP1",
+"h": "Osasuna",
+"a": "Racing Santander",
+"sc": "2-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.24
+},
+"med": {
+"m": "1",
+"q": 1.88
+},
+"est": {
+"m": "Over 3.5",
+"q": 2.72
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
+"u": "udinese-lecce-2026-10-18",
+"d": "2026-10-18T12:30",
+"l": "ITA1",
+"h": "Udinese",
+"a": "Lecce",
+"sc": "0-3",
+"p": {
+"aff": {
+"m": "Under 3.5",
+"q": 1.28
+},
+"med": {
+"m": "1",
+"q": 1.87
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.2
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
 "u": "valencia-athletic-club-2026-10-17",
 "d": "2026-10-17T21:00",
 "l": "ESP1",
