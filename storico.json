@@ -1,5 +1,59 @@
 [
 {
+"u": "getafe-rayo-vallecano-2026-10-19",
+"d": "2026-10-19T21:00",
+"l": "ESP1",
+"h": "Getafe",
+"a": "Rayo Vallecano",
+"sc": "1-1",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.4
+},
+"med": {
+"m": "No Goal",
+"q": 1.7
+},
+"est": {
+"m": "X",
+"q": 3.05
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": true
+}
+},
+{
+"u": "parma-torino-2026-10-19",
+"d": "2026-10-19T20:45",
+"l": "ITA1",
+"h": "Parma",
+"a": "Torino",
+"sc": "0-3",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.37
+},
+"med": {
+"m": "No Goal",
+"q": 1.76
+},
+"est": {
+"m": "Under 1.5",
+"q": 2.7
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
 "u": "monza-cagliari-2026-10-19",
 "d": "2026-10-19T18:30",
 "l": "ITA1",
