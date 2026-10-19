@@ -1,5 +1,32 @@
 [
 {
+"u": "monza-cagliari-2026-10-19",
+"d": "2026-10-19T18:30",
+"l": "ITA1",
+"h": "Monza",
+"a": "Cagliari",
+"sc": "4-0",
+"p": {
+"aff": {
+"m": "1X",
+"q": 1.33
+},
+"med": {
+"m": "No Goal",
+"q": 1.9
+},
+"est": {
+"m": "Under 1.5",
+"q": 3.05
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
 "u": "real-madrid-siviglia-2026-10-18",
 "d": "2026-10-18T21:00",
 "l": "ESP1",
