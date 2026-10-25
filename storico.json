@@ -1,5 +1,32 @@
 [
 {
+"u": "sparta-rotterdam-ajax-2026-10-25",
+"d": "2026-10-25T16:45",
+"l": "NLD1",
+"h": "Sparta Rotterdam",
+"a": "Ajax",
+"sc": "1-2",
+"p": {
+"aff": {
+"m": "X2",
+"q": 1.11
+},
+"med": {
+"m": "Goal",
+"q": 1.52
+},
+"est": {
+"m": "Over 3.5",
+"q": 1.83
+}
+},
+"ok": {
+"aff": true,
+"med": true,
+"est": false
+}
+},
+{
 "u": "nec-nijmegen-groningen-2026-10-25",
 "d": "2026-10-25T14:30",
 "l": "NLD1",
