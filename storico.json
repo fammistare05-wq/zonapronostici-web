@@ -1,5 +1,32 @@
 [
 {
+"u": "az-alkmaar-twente-2026-10-25",
+"d": "2026-10-25T20:00",
+"l": "NLD1",
+"h": "AZ Alkmaar",
+"a": "Twente",
+"sc": "0-2",
+"p": {
+"aff": {
+"m": "Over 1.5",
+"q": 1.13
+},
+"med": {
+"m": "Over 2.5",
+"q": 1.46
+},
+"est": {
+"m": "1",
+"q": 2.24
+}
+},
+"ok": {
+"aff": true,
+"med": false,
+"est": false
+}
+},
+{
 "u": "sparta-rotterdam-ajax-2026-10-25",
 "d": "2026-10-25T16:45",
 "l": "NLD1",
